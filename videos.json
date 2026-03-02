@@ -1,15 +1,33 @@
 {
-  "categories": {
-    "Web Dev": [
+  "categories": {    "Web Dev": [
       {
-        "title": "HTML & CSS Full Course",
-        "url": "https://youtu.be/F3nnLePt5yk?si=cw_a_6xdzSYUzhnM",
-        "duration": "6h 30m"
+        "title": "Modern Web Development Guide",
+        "url": "https://youtu.be/ilrtSkxM6Oc?si=tx4BomEV2xzyfuv1",
+        "duration": "15m"
       },
       {
-        "title": "JavaScript Tutorial",
-        "url": "https://youtu.be/5LRz4djzahM?si=XFY2FNfDIshejM78",
-        "duration": "1h 20m"
+        "title": "Mastering Frontend Skills",
+        "url": "https://youtu.be/lxzBB6vB0Kg?si=Ezx5_LOfYU2E_x5v",
+        "duration": "22m"
+      }
+    ],
+    "AI / ML": [
+      {
+        "title": "Artificial Intelligence Basics",
+        "url": "https://youtu.be/Awf0fKKOqYA?si=szDsqN8YQeusWfJp",
+        "duration": "10m"
+      }
+    ],
+    "Android Dev": [
+      {
+        "title": "Advanced Android Patterns",
+        "url": "https://youtu.be/0YuYuUw-OKo?si=pEWcDat3abWk6W6X",
+        "duration": "45m"
+      },
+      {
+        "title": "Jetpack Compose deep dive",
+        "url": "https://youtu.be/LzGgH9BdMak?si=qoLW9QleVz-T7Ofa",
+        "duration": "30m"
       }
     ]
   }
