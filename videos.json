@@ -1,0 +1,16 @@
+{
+  "categories": {
+    "Web Dev": [
+      {
+        "title": "HTML & CSS Full Course",
+        "url": "https://youtu.be/F3nnLePt5yk?si=cw_a_6xdzSYUzhnM",
+        "duration": "6h 30m"
+      },
+      {
+        "title": "JavaScript Tutorial",
+        "url": "https://youtu.be/5LRz4djzahM?si=XFY2FNfDIshejM78",
+        "duration": "1h 20m"
+      }
+    ]
+  }
+}
